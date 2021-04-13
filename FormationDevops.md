@@ -9,10 +9,25 @@
 ### BLOC 2
 
 #### Mes actions :
-Mes actions pour pouvoir atteindre mes objectifs sur cette formation:
-    - [x] Travail personnel
-    - [x] Travail en équipe
-    - [ ] Refaire les exercices solo
-    - [ ] Veille sur internet
+#### Mes actions pour pouvoir atteindre mes objectifs sur cette formation :
+- [x] Travail personnel
+- [x] Travail en équipe
+- [ ] Refaire les exercices solo
+- [ ] Veille sur internet
 
-    
+### Les ressources qui  m'aident dans mon parcours d'apprentissage :
+
+- [openclassrooms linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/)
+
+- [Cours linux](https://raspberry-pi.fr/decouvrir-linux-cours-introduction-debutants/)
+
+- [Editor.md](https://pandao.github.io/editor.md/en.html)
+
+- [Scrum](https://www.youtube.com/watch?v=kZx_vrMZxGk)
+
+
+### BLOC 3
+
+#### Mes commentaires et notes personnelles : TO DO
+
+#### Les commentaires des autres : TO DO
